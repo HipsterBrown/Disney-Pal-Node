@@ -1,0 +1,1353 @@
+{
+    "wdw": {
+        "hours": []
+    },
+    "dl": {
+        "hours": [
+            {
+                "id": "0",
+                "title": "Disneyland Park Hours",
+                "open": "10:00 AM",
+                "until": "8:00 PM"
+            },
+            {
+                "id": "1",
+                "title": "Disney California Adventure Park Hours",
+                "open": "10:00 AM",
+                "until": "8:00 PM"
+            }
+        ]
+    }
+}{
+    "wdw": {
+        "hours": []
+    },
+    "dl": {
+        "hours": [
+            {
+                "id": "0",
+                "title": "Disneyland Park Hours",
+                "open": "10:00 AM",
+                "until": "8:00 PM"
+            },
+            {
+                "id": "1",
+                "title": "Disney California Adventure Park Hours",
+                "open": "10:00 AM",
+                "until": "8:00 PM"
+            }
+        ]
+    }
+}{
+    "wdw": {
+        "hours": [
+            {
+                "id": "0",
+                "title": "Magic Kingdom® Park",
+                "open": "9:00am – 10:00pm"
+            },
+            {
+                "id": "1",
+                "title": "Epcot - Future World",
+                "open": "9:00am – 9:00pm"
+            },
+            {
+                "id": "2",
+                "title": "Epcot - World Showcase",
+                "open": "11:00am – 9:00pm"
+            },
+            {
+                "id": "3",
+                "title": "Disney's Hollywood Studios®",
+                "open": "9:00am – 8:00pm"
+            },
+            {
+                "id": "4",
+                "title": "Disney's Animal Kingdom® Theme Park",
+                "open": "9:00am – 5:00pm"
+            },
+            {
+                "id": "5",
+                "title": "Disney's Typhoon Lagoon Water Park",
+                "open": "10:00am – 5:00pm"
+            },
+            {
+                "id": "6",
+                "title": "Disney's Blizzard Beach Water Park",
+                "open": "10:00am – 5:00pm"
+            },
+            {
+                "id": "7",
+                "title": "Downtown Disney® Marketplace",
+                "open": "10:00am – 11:00pm"
+            },
+            {
+                "id": "8",
+                "title": "Downtown Disney® West Side",
+                "open": "10:30am – 11:00pm"
+            },
+            {
+                "id": "9",
+                "title": "Downtown Disney® Pleasure Island",
+                "open": "11:00am – 1:00am"
+            },
+            {
+                "id": "10",
+                "title": "ESPN Wide World of Sports Complex",
+                "open": "3:00pm – 8:00pm"
+            },
+            {
+                "id": "11",
+                "title": "Downtown Disney® Area",
+                "open": "8:30am – 2:00am"
+            }
+        ]
+    },
+    "dl": {
+        "hours": []
+    }
+}{
+    "wdw": {
+        "hours": [
+            {
+                "id": "0",
+                "title": "Magic Kingdom® Park",
+                "open": "9:00am – 10:00pm"
+            },
+            {
+                "id": "1",
+                "title": "Epcot - Future World",
+                "open": "9:00am – 9:00pm"
+            },
+            {
+                "id": "2",
+                "title": "Epcot - World Showcase",
+                "open": "11:00am – 9:00pm"
+            },
+            {
+                "id": "3",
+                "title": "Disney's Hollywood Studios®",
+                "open": "9:00am – 8:00pm"
+            },
+            {
+                "id": "4",
+                "title": "Disney's Animal Kingdom® Theme Park",
+                "open": "9:00am – 5:00pm"
+            },
+            {
+                "id": "5",
+                "title": "Disney's Typhoon Lagoon Water Park",
+                "open": "10:00am – 5:00pm"
+            },
+            {
+                "id": "6",
+                "title": "Disney's Blizzard Beach Water Park",
+                "open": "10:00am – 5:00pm"
+            },
+            {
+                "id": "7",
+                "title": "Downtown Disney® Marketplace",
+                "open": "10:00am – 11:00pm"
+            },
+            {
+                "id": "8",
+                "title": "Downtown Disney® West Side",
+                "open": "10:30am – 11:00pm"
+            },
+            {
+                "id": "9",
+                "title": "Downtown Disney® Pleasure Island",
+                "open": "11:00am – 1:00am"
+            },
+            {
+                "id": "10",
+                "title": "ESPN Wide World of Sports Complex",
+                "open": "3:00pm – 8:00pm"
+            },
+            {
+                "id": "11",
+                "title": "Downtown Disney® Area",
+                "open": "8:30am – 2:00am"
+            }
+        ]
+    },
+    "dl": {
+        "hours": [
+            {
+                "id": "0",
+                "title": "Disneyland Park Hours",
+                "open": "10:00 AM",
+                "until": "8:00 PM"
+            },
+            {
+                "id": "1",
+                "title": "Disney California Adventure Park Hours",
+                "open": "10:00 AM",
+                "until": "8:00 PM"
+            }
+        ]
+    }
+}{
+    "wdw": {
+        "hours": [
+            {
+                "id": "0",
+                "title": "Magic Kingdom® Park",
+                "open": "9:00am – 10:00pm"
+            },
+            {
+                "id": "1",
+                "title": "Epcot - Future World",
+                "open": "9:00am – 9:00pm"
+            },
+            {
+                "id": "2",
+                "title": "Epcot - World Showcase",
+                "open": "11:00am – 9:00pm"
+            },
+            {
+                "id": "3",
+                "title": "Disney's Hollywood Studios®",
+                "open": "9:00am – 8:00pm"
+            },
+            {
+                "id": "4",
+                "title": "Disney's Animal Kingdom® Theme Park",
+                "open": "9:00am – 5:00pm"
+            },
+            {
+                "id": "5",
+                "title": "Disney's Typhoon Lagoon Water Park",
+                "open": "10:00am – 5:00pm"
+            },
+            {
+                "id": "6",
+                "title": "Disney's Blizzard Beach Water Park",
+                "open": "10:00am – 5:00pm"
+            },
+            {
+                "id": "7",
+                "title": "Downtown Disney® Marketplace",
+                "open": "10:00am – 11:00pm"
+            },
+            {
+                "id": "8",
+                "title": "Downtown Disney® West Side",
+                "open": "10:30am – 11:00pm"
+            },
+            {
+                "id": "9",
+                "title": "Downtown Disney® Pleasure Island",
+                "open": "11:00am – 1:00am"
+            },
+            {
+                "id": "10",
+                "title": "ESPN Wide World of Sports Complex",
+                "open": "3:00pm – 8:00pm"
+            },
+            {
+                "id": "11",
+                "title": "Downtown Disney® Area",
+                "open": "8:30am – 2:00am"
+            }
+        ]
+    },
+    "dl": {
+        "hours": []
+    }
+}{
+    "wdw": {
+        "hours": [
+            {
+                "id": "0",
+                "title": "Magic Kingdom® Park",
+                "open": "9:00am – 10:00pm"
+            },
+            {
+                "id": "1",
+                "title": "Epcot - Future World",
+                "open": "9:00am – 9:00pm"
+            },
+            {
+                "id": "2",
+                "title": "Epcot - World Showcase",
+                "open": "11:00am – 9:00pm"
+            },
+            {
+                "id": "3",
+                "title": "Disney's Hollywood Studios®",
+                "open": "9:00am – 8:00pm"
+            },
+            {
+                "id": "4",
+                "title": "Disney's Animal Kingdom® Theme Park",
+                "open": "9:00am – 5:00pm"
+            },
+            {
+                "id": "5",
+                "title": "Disney's Typhoon Lagoon Water Park",
+                "open": "10:00am – 5:00pm"
+            },
+            {
+                "id": "6",
+                "title": "Disney's Blizzard Beach Water Park",
+                "open": "10:00am – 5:00pm"
+            },
+            {
+                "id": "7",
+                "title": "Downtown Disney® Marketplace",
+                "open": "10:00am – 11:00pm"
+            },
+            {
+                "id": "8",
+                "title": "Downtown Disney® West Side",
+                "open": "10:30am – 11:00pm"
+            },
+            {
+                "id": "9",
+                "title": "Downtown Disney® Pleasure Island",
+                "open": "11:00am – 1:00am"
+            },
+            {
+                "id": "10",
+                "title": "ESPN Wide World of Sports Complex",
+                "open": "3:00pm – 8:00pm"
+            },
+            {
+                "id": "11",
+                "title": "Downtown Disney® Area",
+                "open": "8:30am – 2:00am"
+            }
+        ]
+    },
+    "dl": {
+        "hours": [
+            {
+                "id": "0",
+                "title": "Disneyland Park Hours",
+                "open": "10:00 AM",
+                "until": "8:00 PM"
+            },
+            {
+                "id": "1",
+                "title": "Disney California Adventure Park Hours",
+                "open": "10:00 AM",
+                "until": "8:00 PM"
+            }
+        ]
+    }
+}{
+    "wdw": {
+        "hours": [
+            {
+                "id": "0",
+                "title": "Magic Kingdom® Park",
+                "open": "9:00am – 10:00pm"
+            },
+            {
+                "id": "1",
+                "title": "Epcot - Future World",
+                "open": "9:00am – 9:00pm"
+            },
+            {
+                "id": "2",
+                "title": "Epcot - World Showcase",
+                "open": "11:00am – 9:00pm"
+            },
+            {
+                "id": "3",
+                "title": "Disney's Hollywood Studios®",
+                "open": "9:00am – 8:00pm"
+            },
+            {
+                "id": "4",
+                "title": "Disney's Animal Kingdom® Theme Park",
+                "open": "9:00am – 5:00pm"
+            },
+            {
+                "id": "5",
+                "title": "Disney's Typhoon Lagoon Water Park",
+                "open": "10:00am – 5:00pm"
+            },
+            {
+                "id": "6",
+                "title": "Disney's Blizzard Beach Water Park",
+                "open": "10:00am – 5:00pm"
+            },
+            {
+                "id": "7",
+                "title": "Downtown Disney® Marketplace",
+                "open": "10:00am – 11:00pm"
+            },
+            {
+                "id": "8",
+                "title": "Downtown Disney® West Side",
+                "open": "10:30am – 11:00pm"
+            },
+            {
+                "id": "9",
+                "title": "Downtown Disney® Pleasure Island",
+                "open": "11:00am – 1:00am"
+            },
+            {
+                "id": "10",
+                "title": "ESPN Wide World of Sports Complex",
+                "open": "3:00pm – 8:00pm"
+            },
+            {
+                "id": "11",
+                "title": "Downtown Disney® Area",
+                "open": "8:30am – 2:00am"
+            }
+        ]
+    },
+    "dl": {
+        "hours": []
+    }
+}{
+    "wdw": {
+        "hours": [
+            {
+                "id": "0",
+                "title": "Magic Kingdom® Park",
+                "open": "9:00am – 10:00pm"
+            },
+            {
+                "id": "1",
+                "title": "Epcot - Future World",
+                "open": "9:00am – 9:00pm"
+            },
+            {
+                "id": "2",
+                "title": "Epcot - World Showcase",
+                "open": "11:00am – 9:00pm"
+            },
+            {
+                "id": "3",
+                "title": "Disney's Hollywood Studios®",
+                "open": "9:00am – 8:00pm"
+            },
+            {
+                "id": "4",
+                "title": "Disney's Animal Kingdom® Theme Park",
+                "open": "9:00am – 5:00pm"
+            },
+            {
+                "id": "5",
+                "title": "Disney's Typhoon Lagoon Water Park",
+                "open": "10:00am – 5:00pm"
+            },
+            {
+                "id": "6",
+                "title": "Disney's Blizzard Beach Water Park",
+                "open": "10:00am – 5:00pm"
+            },
+            {
+                "id": "7",
+                "title": "Downtown Disney® Marketplace",
+                "open": "10:00am – 11:00pm"
+            },
+            {
+                "id": "8",
+                "title": "Downtown Disney® West Side",
+                "open": "10:30am – 11:00pm"
+            },
+            {
+                "id": "9",
+                "title": "Downtown Disney® Pleasure Island",
+                "open": "11:00am – 1:00am"
+            },
+            {
+                "id": "10",
+                "title": "ESPN Wide World of Sports Complex",
+                "open": "3:00pm – 8:00pm"
+            },
+            {
+                "id": "11",
+                "title": "Downtown Disney® Area",
+                "open": "8:30am – 2:00am"
+            }
+        ]
+    },
+    "dl": {
+        "hours": [
+            {
+                "id": "0",
+                "title": "Disneyland Park Hours",
+                "open": "10:00 AM",
+                "until": "8:00 PM"
+            },
+            {
+                "id": "1",
+                "title": "Disney California Adventure Park Hours",
+                "open": "10:00 AM",
+                "until": "8:00 PM"
+            }
+        ]
+    }
+}{
+    "wdw": {
+        "hours": [
+            {
+                "id": "0",
+                "title": "Magic Kingdom® Park",
+                "open": "9:00am",
+                "until": "–"
+            },
+            {
+                "id": "1",
+                "title": "Epcot - Future World",
+                "open": "9:00am",
+                "until": "–"
+            },
+            {
+                "id": "2",
+                "title": "Epcot - World Showcase",
+                "open": "11:00am",
+                "until": "–"
+            },
+            {
+                "id": "3",
+                "title": "Disney's Hollywood Studios®",
+                "open": "9:00am",
+                "until": "–"
+            },
+            {
+                "id": "4",
+                "title": "Disney's Animal Kingdom® Theme Park",
+                "open": "9:00am",
+                "until": "–"
+            },
+            {
+                "id": "5",
+                "title": "Disney's Typhoon Lagoon Water Park",
+                "open": "10:00am",
+                "until": "–"
+            },
+            {
+                "id": "6",
+                "title": "Disney's Blizzard Beach Water Park",
+                "open": "10:00am",
+                "until": "–"
+            },
+            {
+                "id": "7",
+                "title": "Downtown Disney® Marketplace",
+                "open": "10:00am",
+                "until": "–"
+            },
+            {
+                "id": "8",
+                "title": "Downtown Disney® West Side",
+                "open": "10:30am",
+                "until": "–"
+            },
+            {
+                "id": "9",
+                "title": "Downtown Disney® Pleasure Island",
+                "open": "11:00am",
+                "until": "–"
+            },
+            {
+                "id": "10",
+                "title": "ESPN Wide World of Sports Complex",
+                "open": "3:00pm",
+                "until": "–"
+            },
+            {
+                "id": "11",
+                "title": "Downtown Disney® Area",
+                "open": "8:30am",
+                "until": "–"
+            }
+        ]
+    },
+    "dl": {
+        "hours": []
+    }
+}{
+    "wdw": {
+        "hours": [
+            {
+                "id": "0",
+                "title": "Magic Kingdom® Park",
+                "open": "9:00am",
+                "until": "–"
+            },
+            {
+                "id": "1",
+                "title": "Epcot - Future World",
+                "open": "9:00am",
+                "until": "–"
+            },
+            {
+                "id": "2",
+                "title": "Epcot - World Showcase",
+                "open": "11:00am",
+                "until": "–"
+            },
+            {
+                "id": "3",
+                "title": "Disney's Hollywood Studios®",
+                "open": "9:00am",
+                "until": "–"
+            },
+            {
+                "id": "4",
+                "title": "Disney's Animal Kingdom® Theme Park",
+                "open": "9:00am",
+                "until": "–"
+            },
+            {
+                "id": "5",
+                "title": "Disney's Typhoon Lagoon Water Park",
+                "open": "10:00am",
+                "until": "–"
+            },
+            {
+                "id": "6",
+                "title": "Disney's Blizzard Beach Water Park",
+                "open": "10:00am",
+                "until": "–"
+            },
+            {
+                "id": "7",
+                "title": "Downtown Disney® Marketplace",
+                "open": "10:00am",
+                "until": "–"
+            },
+            {
+                "id": "8",
+                "title": "Downtown Disney® West Side",
+                "open": "10:30am",
+                "until": "–"
+            },
+            {
+                "id": "9",
+                "title": "Downtown Disney® Pleasure Island",
+                "open": "11:00am",
+                "until": "–"
+            },
+            {
+                "id": "10",
+                "title": "ESPN Wide World of Sports Complex",
+                "open": "3:00pm",
+                "until": "–"
+            },
+            {
+                "id": "11",
+                "title": "Downtown Disney® Area",
+                "open": "8:30am",
+                "until": "–"
+            }
+        ]
+    },
+    "dl": {
+        "hours": [
+            {
+                "id": "0",
+                "title": "Disneyland Park Hours",
+                "open": "10:00 AM",
+                "until": "8:00 PM"
+            },
+            {
+                "id": "1",
+                "title": "Disney California Adventure Park Hours",
+                "open": "10:00 AM",
+                "until": "8:00 PM"
+            }
+        ]
+    }
+}{
+    "wdw": {
+        "hours": [
+            {
+                "id": "0",
+                "title": "Magic Kingdom® Park",
+                "open": "9:00am",
+                "until": "10:00pm"
+            },
+            {
+                "id": "1",
+                "title": "Epcot - Future World",
+                "open": "9:00am",
+                "until": "9:00pm"
+            },
+            {
+                "id": "2",
+                "title": "Epcot - World Showcase",
+                "open": "11:00am",
+                "until": "9:00pm"
+            },
+            {
+                "id": "3",
+                "title": "Disney's Hollywood Studios®",
+                "open": "9:00am",
+                "until": "8:00pm"
+            },
+            {
+                "id": "4",
+                "title": "Disney's Animal Kingdom® Theme Park",
+                "open": "9:00am",
+                "until": "5:00pm"
+            },
+            {
+                "id": "5",
+                "title": "Disney's Typhoon Lagoon Water Park",
+                "open": "10:00am",
+                "until": "5:00pm"
+            },
+            {
+                "id": "6",
+                "title": "Disney's Blizzard Beach Water Park",
+                "open": "10:00am",
+                "until": "5:00pm"
+            },
+            {
+                "id": "7",
+                "title": "Downtown Disney® Marketplace",
+                "open": "10:00am",
+                "until": "11:00pm"
+            },
+            {
+                "id": "8",
+                "title": "Downtown Disney® West Side",
+                "open": "10:30am",
+                "until": "11:00pm"
+            },
+            {
+                "id": "9",
+                "title": "Downtown Disney® Pleasure Island",
+                "open": "11:00am",
+                "until": "1:00am"
+            },
+            {
+                "id": "10",
+                "title": "ESPN Wide World of Sports Complex",
+                "open": "3:00pm",
+                "until": "8:00pm"
+            },
+            {
+                "id": "11",
+                "title": "Downtown Disney® Area",
+                "open": "8:30am",
+                "until": "2:00am"
+            }
+        ]
+    },
+    "dl": {
+        "hours": []
+    }
+}{
+    "wdw": {
+        "hours": [
+            {
+                "id": "0",
+                "title": "Magic Kingdom® Park",
+                "open": "9:00am",
+                "until": "10:00pm"
+            },
+            {
+                "id": "1",
+                "title": "Epcot - Future World",
+                "open": "9:00am",
+                "until": "9:00pm"
+            },
+            {
+                "id": "2",
+                "title": "Epcot - World Showcase",
+                "open": "11:00am",
+                "until": "9:00pm"
+            },
+            {
+                "id": "3",
+                "title": "Disney's Hollywood Studios®",
+                "open": "9:00am",
+                "until": "8:00pm"
+            },
+            {
+                "id": "4",
+                "title": "Disney's Animal Kingdom® Theme Park",
+                "open": "9:00am",
+                "until": "5:00pm"
+            },
+            {
+                "id": "5",
+                "title": "Disney's Typhoon Lagoon Water Park",
+                "open": "10:00am",
+                "until": "5:00pm"
+            },
+            {
+                "id": "6",
+                "title": "Disney's Blizzard Beach Water Park",
+                "open": "10:00am",
+                "until": "5:00pm"
+            },
+            {
+                "id": "7",
+                "title": "Downtown Disney® Marketplace",
+                "open": "10:00am",
+                "until": "11:00pm"
+            },
+            {
+                "id": "8",
+                "title": "Downtown Disney® West Side",
+                "open": "10:30am",
+                "until": "11:00pm"
+            },
+            {
+                "id": "9",
+                "title": "Downtown Disney® Pleasure Island",
+                "open": "11:00am",
+                "until": "1:00am"
+            },
+            {
+                "id": "10",
+                "title": "ESPN Wide World of Sports Complex",
+                "open": "3:00pm",
+                "until": "8:00pm"
+            },
+            {
+                "id": "11",
+                "title": "Downtown Disney® Area",
+                "open": "8:30am",
+                "until": "2:00am"
+            }
+        ]
+    },
+    "dl": {
+        "hours": [
+            {
+                "id": "0",
+                "title": "Disneyland Park Hours",
+                "open": "10:00 AM",
+                "until": "8:00 PM"
+            },
+            {
+                "id": "1",
+                "title": "Disney California Adventure Park Hours",
+                "open": "10:00 AM",
+                "until": "8:00 PM"
+            }
+        ]
+    }
+}{
+    "wdw": {
+        "hours": [
+            {
+                "id": "0",
+                "title": "Magic Kingdom® Park",
+                "open": "9:00am",
+                "until": "10:00pm"
+            },
+            {
+                "id": "1",
+                "title": "Epcot - Future World",
+                "open": "9:00am",
+                "until": "9:00pm"
+            },
+            {
+                "id": "2",
+                "title": "Epcot - World Showcase",
+                "open": "11:00am",
+                "until": "9:00pm"
+            },
+            {
+                "id": "3",
+                "title": "Disney's Hollywood Studios®",
+                "open": "9:00am",
+                "until": "8:00pm"
+            },
+            {
+                "id": "4",
+                "title": "Disney's Animal Kingdom® Theme Park",
+                "open": "9:00am",
+                "until": "5:00pm"
+            },
+            {
+                "id": "5",
+                "title": "Disney's Typhoon Lagoon Water Park",
+                "open": "10:00am",
+                "until": "5:00pm"
+            },
+            {
+                "id": "6",
+                "title": "Disney's Blizzard Beach Water Park",
+                "open": "10:00am",
+                "until": "5:00pm"
+            },
+            {
+                "id": "7",
+                "title": "Downtown Disney® Marketplace",
+                "open": "10:00am",
+                "until": "11:00pm"
+            },
+            {
+                "id": "8",
+                "title": "Downtown Disney® West Side",
+                "open": "10:30am",
+                "until": "11:00pm"
+            },
+            {
+                "id": "9",
+                "title": "Downtown Disney® Pleasure Island",
+                "open": "11:00am",
+                "until": "1:00am"
+            },
+            {
+                "id": "10",
+                "title": "ESPN Wide World of Sports Complex",
+                "open": "3:00pm",
+                "until": "8:00pm"
+            },
+            {
+                "id": "11",
+                "title": "Downtown Disney® Area",
+                "open": "8:30am",
+                "until": "2:00am"
+            }
+        ]
+    },
+    "dl": {
+        "hours": []
+    }
+}{
+    "wdw": {
+        "hours": [
+            {
+                "id": "0",
+                "title": "Magic Kingdom® Park",
+                "open": "9:00am",
+                "until": "10:00pm"
+            },
+            {
+                "id": "1",
+                "title": "Epcot - Future World",
+                "open": "9:00am",
+                "until": "9:00pm"
+            },
+            {
+                "id": "2",
+                "title": "Epcot - World Showcase",
+                "open": "11:00am",
+                "until": "9:00pm"
+            },
+            {
+                "id": "3",
+                "title": "Disney's Hollywood Studios®",
+                "open": "9:00am",
+                "until": "8:00pm"
+            },
+            {
+                "id": "4",
+                "title": "Disney's Animal Kingdom® Theme Park",
+                "open": "9:00am",
+                "until": "5:00pm"
+            },
+            {
+                "id": "5",
+                "title": "Disney's Typhoon Lagoon Water Park",
+                "open": "10:00am",
+                "until": "5:00pm"
+            },
+            {
+                "id": "6",
+                "title": "Disney's Blizzard Beach Water Park",
+                "open": "10:00am",
+                "until": "5:00pm"
+            },
+            {
+                "id": "7",
+                "title": "Downtown Disney® Marketplace",
+                "open": "10:00am",
+                "until": "11:00pm"
+            },
+            {
+                "id": "8",
+                "title": "Downtown Disney® West Side",
+                "open": "10:30am",
+                "until": "11:00pm"
+            },
+            {
+                "id": "9",
+                "title": "Downtown Disney® Pleasure Island",
+                "open": "11:00am",
+                "until": "1:00am"
+            },
+            {
+                "id": "10",
+                "title": "ESPN Wide World of Sports Complex",
+                "open": "3:00pm",
+                "until": "8:00pm"
+            },
+            {
+                "id": "11",
+                "title": "Downtown Disney® Area",
+                "open": "8:30am",
+                "until": "2:00am"
+            }
+        ]
+    },
+    "dl": {
+        "hours": [
+            {
+                "id": "0",
+                "title": "Disneyland",
+                "open": "10:00 AM",
+                "until": "8:00 PM"
+            },
+            {
+                "id": "1",
+                "title": "Disney California Adventure",
+                "open": "10:00 AM",
+                "until": "8:00 PM"
+            }
+        ]
+    }
+}{
+    "wdw": {
+        "hours": [
+            {
+                "id": "0",
+                "title": "Magic Kingdom® Park",
+                "open": "9:00am",
+                "until": "10:00pm"
+            },
+            {
+                "id": "1",
+                "title": "Epcot - Future World",
+                "open": "9:00am",
+                "until": "9:00pm"
+            },
+            {
+                "id": "2",
+                "title": "Epcot - World Showcase",
+                "open": "11:00am",
+                "until": "9:00pm"
+            },
+            {
+                "id": "3",
+                "title": "Disney's Hollywood Studios®",
+                "open": "9:00am",
+                "until": "8:00pm"
+            },
+            {
+                "id": "4",
+                "title": "Disney's Animal Kingdom® Theme Park",
+                "open": "9:00am",
+                "until": "5:00pm"
+            },
+            {
+                "id": "5",
+                "title": "Disney's Typhoon Lagoon Water Park",
+                "open": "10:00am",
+                "until": "5:00pm"
+            },
+            {
+                "id": "6",
+                "title": "Disney's Blizzard Beach Water Park",
+                "open": "10:00am",
+                "until": "5:00pm"
+            },
+            {
+                "id": "7",
+                "title": "Downtown Disney® Marketplace",
+                "open": "10:00am",
+                "until": "11:00pm"
+            },
+            {
+                "id": "8",
+                "title": "Downtown Disney® West Side",
+                "open": "10:30am",
+                "until": "11:00pm"
+            },
+            {
+                "id": "9",
+                "title": "Downtown Disney® Pleasure Island",
+                "open": "11:00am",
+                "until": "1:00am"
+            },
+            {
+                "id": "10",
+                "title": "ESPN Wide World of Sports Complex",
+                "open": "3:00pm",
+                "until": "8:00pm"
+            },
+            {
+                "id": "11",
+                "title": "Downtown Disney® Area",
+                "open": "8:30am",
+                "until": "2:00am"
+            }
+        ]
+    },
+    "dl": {
+        "hours": []
+    }
+}{
+    "wdw": {
+        "hours": [
+            {
+                "id": "0",
+                "title": "Magic Kingdom® Park",
+                "open": "9:00am",
+                "until": "10:00pm"
+            },
+            {
+                "id": "1",
+                "title": "Epcot - Future World",
+                "open": "9:00am",
+                "until": "9:00pm"
+            },
+            {
+                "id": "2",
+                "title": "Epcot - World Showcase",
+                "open": "11:00am",
+                "until": "9:00pm"
+            },
+            {
+                "id": "3",
+                "title": "Disney's Hollywood Studios®",
+                "open": "9:00am",
+                "until": "8:00pm"
+            },
+            {
+                "id": "4",
+                "title": "Disney's Animal Kingdom® Theme Park",
+                "open": "9:00am",
+                "until": "5:00pm"
+            },
+            {
+                "id": "5",
+                "title": "Disney's Typhoon Lagoon Water Park",
+                "open": "10:00am",
+                "until": "5:00pm"
+            },
+            {
+                "id": "6",
+                "title": "Disney's Blizzard Beach Water Park",
+                "open": "10:00am",
+                "until": "5:00pm"
+            },
+            {
+                "id": "7",
+                "title": "Downtown Disney® Marketplace",
+                "open": "10:00am",
+                "until": "11:00pm"
+            },
+            {
+                "id": "8",
+                "title": "Downtown Disney® West Side",
+                "open": "10:30am",
+                "until": "11:00pm"
+            },
+            {
+                "id": "9",
+                "title": "Downtown Disney® Pleasure Island",
+                "open": "11:00am",
+                "until": "1:00am"
+            },
+            {
+                "id": "10",
+                "title": "ESPN Wide World of Sports Complex",
+                "open": "3:00pm",
+                "until": "8:00pm"
+            },
+            {
+                "id": "11",
+                "title": "Downtown Disney® Area",
+                "open": "8:30am",
+                "until": "2:00am"
+            }
+        ]
+    },
+    "dl": {
+        "hours": [
+            {
+                "id": "0",
+                "title": "Disneyland",
+                "open": "10:00 AM",
+                "until": "8:00 PM"
+            },
+            {
+                "id": "1",
+                "title": "Disney California Adventure",
+                "open": "10:00 AM",
+                "until": "8:00 PM"
+            }
+        ]
+    }
+}{
+    "wdw": {
+        "hours": [
+            {
+                "id": "0",
+                "title": "Magic Kingdom® Park",
+                "open": "9:00am",
+                "until": "10:00pm"
+            },
+            {
+                "id": "1",
+                "title": "Epcot - Future World",
+                "open": "9:00am",
+                "until": "9:00pm"
+            },
+            {
+                "id": "2",
+                "title": "Epcot - World Showcase",
+                "open": "11:00am",
+                "until": "9:00pm"
+            },
+            {
+                "id": "3",
+                "title": "Disney's Hollywood Studios®",
+                "open": "9:00am",
+                "until": "8:00pm"
+            },
+            {
+                "id": "4",
+                "title": "Disney's Animal Kingdom® Theme Park",
+                "open": "9:00am",
+                "until": "5:00pm"
+            },
+            {
+                "id": "5",
+                "title": "Disney's Typhoon Lagoon Water Park",
+                "open": "10:00am",
+                "until": "5:00pm"
+            },
+            {
+                "id": "6",
+                "title": "Disney's Blizzard Beach Water Park",
+                "open": "10:00am",
+                "until": "5:00pm"
+            },
+            {
+                "id": "7",
+                "title": "Downtown Disney® Marketplace",
+                "open": "10:00am",
+                "until": "11:00pm"
+            },
+            {
+                "id": "8",
+                "title": "Downtown Disney® West Side",
+                "open": "10:30am",
+                "until": "11:00pm"
+            },
+            {
+                "id": "9",
+                "title": "Downtown Disney® Pleasure Island",
+                "open": "11:00am",
+                "until": "1:00am"
+            },
+            {
+                "id": "10",
+                "title": "ESPN Wide World of Sports Complex",
+                "open": "3:00pm",
+                "until": "8:00pm"
+            },
+            {
+                "id": "11",
+                "title": "Downtown Disney® Area",
+                "open": "8:30am",
+                "until": "2:00am"
+            }
+        ]
+    },
+    "dl": {
+        "hours": []
+    }
+}{
+    "wdw": {
+        "hours": [
+            {
+                "id": "0",
+                "title": "Magic Kingdom® Park",
+                "open": "9:00am",
+                "until": "10:00pm"
+            },
+            {
+                "id": "1",
+                "title": "Epcot - Future World",
+                "open": "9:00am",
+                "until": "9:00pm"
+            },
+            {
+                "id": "2",
+                "title": "Epcot - World Showcase",
+                "open": "11:00am",
+                "until": "9:00pm"
+            },
+            {
+                "id": "3",
+                "title": "Disney's Hollywood Studios®",
+                "open": "9:00am",
+                "until": "8:00pm"
+            },
+            {
+                "id": "4",
+                "title": "Disney's Animal Kingdom® Theme Park",
+                "open": "9:00am",
+                "until": "5:00pm"
+            },
+            {
+                "id": "5",
+                "title": "Disney's Typhoon Lagoon Water Park",
+                "open": "10:00am",
+                "until": "5:00pm"
+            },
+            {
+                "id": "6",
+                "title": "Disney's Blizzard Beach Water Park",
+                "open": "10:00am",
+                "until": "5:00pm"
+            },
+            {
+                "id": "7",
+                "title": "Downtown Disney® Marketplace",
+                "open": "10:00am",
+                "until": "11:00pm"
+            },
+            {
+                "id": "8",
+                "title": "Downtown Disney® West Side",
+                "open": "10:30am",
+                "until": "11:00pm"
+            },
+            {
+                "id": "9",
+                "title": "Downtown Disney® Pleasure Island",
+                "open": "11:00am",
+                "until": "1:00am"
+            },
+            {
+                "id": "10",
+                "title": "ESPN Wide World of Sports Complex",
+                "open": "3:00pm",
+                "until": "8:00pm"
+            },
+            {
+                "id": "11",
+                "title": "Downtown Disney® Area",
+                "open": "8:30am",
+                "until": "2:00am"
+            }
+        ]
+    },
+    "dl": {
+        "hours": [
+            {
+                "id": "0",
+                "title": "Disneyland",
+                "open": "10:00 AM",
+                "until": "8:00 PM"
+            },
+            {
+                "id": "1",
+                "title": "Disney California Adventure",
+                "open": "10:00 AM",
+                "until": "8:00 PM"
+            }
+        ]
+    }
+}
