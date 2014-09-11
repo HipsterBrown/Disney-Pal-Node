@@ -90,7 +90,7 @@ app.get('/times', function(req, res) {
         //res.setHeader('Content-Type', 'application/json');
 
         res.json(json);
-        res.send(200);
+        //res.send(200);
 
       });
     });
