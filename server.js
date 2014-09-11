@@ -4,7 +4,13 @@ var request = require('request');
 var cheerio = require('cheerio');
 var app = express();
 
-app.get('/scrape', function(req, res) {
+app.set('port', (process.env.PORT || 8081));
+
+app.get('/', function(req, res) {
+  res.send('You can find Disney Times at /times.');
+});
+
+app.get('/times', function(req, res) {
 
   var worldUrl = 'https://disneyworld.disney.go.com/calendars/';
   var landUrl = 'https://disneyland.disney.go.com/calendars/park-hours/';
@@ -92,8 +98,10 @@ app.get('/scrape', function(req, res) {
 
 });
 
-app.listen('8081');
+app.listen(app.get('port'), function() {
+  console.log('Magic happens on port: ' + app.get('port'));
+});
 
-console.log('Magic happens on port 8081');
+
 
 exports = module.exports = app;
