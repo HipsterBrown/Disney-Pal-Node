@@ -1350,4 +1350,164 @@
             }
         ]
     }
+}{
+    "wdw": {
+        "hours": [
+            {
+                "id": "0",
+                "title": "Magic Kingdom® Park",
+                "open": "9:00am",
+                "until": "10:00pm"
+            },
+            {
+                "id": "1",
+                "title": "Epcot - Future World",
+                "open": "9:00am",
+                "until": "9:00pm"
+            },
+            {
+                "id": "2",
+                "title": "Epcot - World Showcase",
+                "open": "11:00am",
+                "until": "9:00pm"
+            },
+            {
+                "id": "3",
+                "title": "Disney's Hollywood Studios®",
+                "open": "9:00am",
+                "until": "8:00pm"
+            },
+            {
+                "id": "4",
+                "title": "Disney's Animal Kingdom® Theme Park",
+                "open": "9:00am",
+                "until": "5:00pm"
+            },
+            {
+                "id": "5",
+                "title": "Disney's Typhoon Lagoon Water Park",
+                "open": "10:00am",
+                "until": "5:00pm"
+            },
+            {
+                "id": "6",
+                "title": "Disney's Blizzard Beach Water Park",
+                "open": "10:00am",
+                "until": "5:00pm"
+            },
+            {
+                "id": "7",
+                "title": "Downtown Disney® Marketplace",
+                "open": "10:00am",
+                "until": "11:00pm"
+            },
+            {
+                "id": "8",
+                "title": "Downtown Disney® West Side",
+                "open": "10:30am",
+                "until": "11:00pm"
+            },
+            {
+                "id": "9",
+                "title": "Downtown Disney® Pleasure Island",
+                "open": "11:00am",
+                "until": "1:00am"
+            },
+            {
+                "id": "10",
+                "title": "ESPN Wide World of Sports Complex",
+                "open": "3:00pm",
+                "until": "8:00pm"
+            },
+            {
+                "id": "11",
+                "title": "Downtown Disney® Area",
+                "open": "8:30am",
+                "until": "2:00am"
+            }
+        ]
+    },
+    "dl": {
+        "hours": []
+    }
+}{
+    "wdw": {
+        "hours": [
+            {
+                "id": "0",
+                "title": "Magic Kingdom® Park",
+                "open": "9:00am",
+                "until": "10:00pm"
+            },
+            {
+                "id": "1",
+                "title": "Epcot - Future World",
+                "open": "9:00am",
+                "until": "9:00pm"
+            },
+            {
+                "id": "2",
+                "title": "Epcot - World Showcase",
+                "open": "11:00am",
+                "until": "9:00pm"
+            },
+            {
+                "id": "3",
+                "title": "Disney's Hollywood Studios®",
+                "open": "9:00am",
+                "until": "8:00pm"
+            },
+            {
+                "id": "4",
+                "title": "Disney's Animal Kingdom® Theme Park",
+                "open": "9:00am",
+                "until": "5:00pm"
+            },
+            {
+                "id": "5",
+                "title": "Disney's Typhoon Lagoon Water Park",
+                "open": "10:00am",
+                "until": "5:00pm"
+            },
+            {
+                "id": "6",
+                "title": "Disney's Blizzard Beach Water Park",
+                "open": "10:00am",
+                "until": "5:00pm"
+            },
+            {
+                "id": "7",
+                "title": "Downtown Disney® Marketplace",
+                "open": "10:00am",
+                "until": "11:00pm"
+            },
+            {
+                "id": "8",
+                "title": "Downtown Disney® West Side",
+                "open": "10:30am",
+                "until": "11:00pm"
+            },
+            {
+                "id": "9",
+                "title": "Downtown Disney® Pleasure Island",
+                "open": "11:00am",
+                "until": "1:00am"
+            },
+            {
+                "id": "10",
+                "title": "ESPN Wide World of Sports Complex",
+                "open": "3:00pm",
+                "until": "8:00pm"
+            },
+            {
+                "id": "11",
+                "title": "Downtown Disney® Area",
+                "open": "8:30am",
+                "until": "2:00am"
+            }
+        ]
+    },
+    "dl": {
+        "hours": []
+    }
 }

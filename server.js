@@ -87,9 +87,10 @@ app.get('/times', function(req, res) {
           console.log('File successfully written! - Check your project directory for the output.json file');
         });
 
-        res.setHeader('Content-Type', 'application/json');
+        //res.setHeader('Content-Type', 'application/json');
 
-        res.send(JSON.stringify(json, null, 4));
+        res.json(json);
+        res.send(200);
 
       });
     });
