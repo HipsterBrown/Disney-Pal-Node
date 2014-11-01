@@ -90,11 +90,7 @@ app.get('/times', function(req, res) {
           console.log('File successfully written! - Check your project directory for the output.json file');
         });
 
-        //res.setHeader('Content-Type', 'application/json');
-
         res.json(json);
-        //res.send(200);
-
       });
     });
 
@@ -105,7 +101,5 @@ app.get('/times', function(req, res) {
 app.listen(app.get('port'), function() {
   console.log('Magic happens on port: ' + app.get('port'));
 });
-
-
 
 exports = module.exports = app;
