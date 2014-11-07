@@ -21,7 +21,7 @@ app.route({
   method: 'GET',
   path: '/times',
   handler: function(req, reply) {
-    var timesJSON = fs.readFileSync('./output.json', 'utf8');
+    var timesJSON = fs.readFileSync('./bin/output.json', 'utf8');
 
     timesJSON = JSON.parse(timesJSON);
 
