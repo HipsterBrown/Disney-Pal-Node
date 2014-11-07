@@ -67,6 +67,7 @@ request(worldUrl, function(error, response, html) {
         }
 
         fs.writeFile(path.join(__dirname, './../output.json'), JSON.stringify(hoursJSON, null, 4), function(err) {
+          console.log('Scrape dir - ' + __dirname);
           console.log('File successfully written! - Check your project directory for the output.json file');
         });
 
