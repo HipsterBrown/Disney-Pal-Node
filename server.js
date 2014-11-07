@@ -27,6 +27,12 @@ app.route({
   }
 });
 
+app.route({
+  method: 'GET',
+  path: '/scrape',
+  handler: require('./lib/writeTimes')
+});
+
 
 app.start(function(){
   console.log('Magic happens on port: ' + app.info.uri);
