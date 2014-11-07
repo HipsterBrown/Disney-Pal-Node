@@ -5,7 +5,7 @@ var fs = require('fs');
 
 var port = process.env.PORT || 8081;
 
-var app = Hapi.createServer('localhost', port, {
+var app = Hapi.createServer('0.0.0.0', port, {
   cors: true
 });
 
