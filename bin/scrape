@@ -1,3 +1,76 @@
 #!/usr/bin/env node
 
-console.log('Test success.');
+var cheerio = require('cheerio');
+var request = require('request');
+var fs = require('fs');
+var path = require('path');
+
+var worldUrl = 'https://disneyworld.disney.go.com/calendars/';
+var landUrl = 'https://disneyland.disney.go.com/calendars/park-hours/';
+
+var hoursJSON = {
+  'timeStamp': new Date().toString(),
+  "wdw": {
+    "hours": []
+  },
+  "dl": {
+    "hours": []
+  }
+};
+
+request(worldUrl, function(error, response, html) {
+    if(!error) {
+      var $ = cheerio.load(html);
+
+      $('.clickRow').each(function(i, elem){
+        var data = $(this);
+        var range = data.find('.hours.range > p').text();
+        var rangeSplit = range.split(' ');
+
+        hoursJSON.wdw.hours[i] = {
+          "id": (i++).toString(),
+          "title": data.find('.parkName').text(),
+          "open": rangeSplit[0],
+          "until": rangeSplit[2]
+        };
+      });
+
+    }
+
+    fs.writeFile('output.json', JSON.stringify(hoursJSON, null, 4), function(err) {
+      console.log('File successfully written!');
+
+      request(landUrl, function(error, response, html) {
+
+        if(!error) {
+          var $ = cheerio.load(html);
+
+          var cards = $('body');
+
+
+          $('.parkHoursList li').each(function(i, elem){
+            var data = $(elem);
+            var range = data.find('.hours.operating').text();
+            var rangeSplit = range.split(' to ');
+
+            var title = data.find('.pkTitle').text().trim();
+                title = title.slice(0, title.indexOf('Park')).trim();
+
+
+            hoursJSON.dl.hours[i] = {
+              "id": (i++).toString(),
+              "title": title,
+              "open": rangeSplit[0],
+              "until": rangeSplit[1]
+            };
+          });
+        }
+
+        fs.writeFile('output.json', JSON.stringify(hoursJSON, null, 4), function(err) {
+          console.log('File successfully written! - Check your project directory for the output.json file');
+        });
+
+      });
+    });
+
+});
