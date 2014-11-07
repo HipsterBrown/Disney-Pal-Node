@@ -23,6 +23,8 @@ app.route({
   handler: function(req, reply) {
     var timesJSON = fs.readFileSync('./output.json', 'utf8');
 
+    timesJSON = JSON.parse(timesJSON);
+
     reply(timesJSON);
   }
 });
