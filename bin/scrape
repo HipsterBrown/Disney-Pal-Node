@@ -4,9 +4,14 @@ var cheerio = require('cheerio');
 var request = require('request');
 var fs = require('fs');
 var path = require('path');
+var AWS = require('aws-sdk');
 
 var worldUrl = 'https://disneyworld.disney.go.com/calendars/';
 var landUrl = 'https://disneyland.disney.go.com/calendars/park-hours/';
+
+var AWS_ACCESS_KEY = process.env.AWS_ACCESS_KEY;
+var AWS_SECRET_KEY = process.env.AWS_SECRET_KEY;
+var S3_BUCKET = process.env.S3_BUCKET;
 
 var hoursJSON = {
   'timeStamp': new Date().toString(),
@@ -66,10 +71,28 @@ request(worldUrl, function(error, response, html) {
           });
         }
 
-        fs.writeFile(path.join(__dirname, './../output.json'), JSON.stringify(hoursJSON, null, 4), function(err) {
-          console.log('Scrape dir - ' + __dirname);
-          console.log('File successfully written! - Check your project directory for the output.json file');
+        aws.config.update({accessKeyId: AWS_ACCESS_KEY, secretAccessKey: AWS_SECRET_KEY});
+        AWS.config.region = 'us-west-2';
+        var s3bucket = new aws.S3({
+          params: {
+            Bucket: 'disneypal'
+          }
         });
+
+        var data = {Key: 'times', Body: JSON.stringify(hoursJSON)};
+
+        s3bucket.putObject(data, function(err, data){
+          if(err) {
+            console.log('Error putting object in bucket: ' + err);
+          } else {
+            console.log('Successfully stored times!', data);
+          }
+        });
+
+        // fs.writeFile(path.join(__dirname, './../output.json'), JSON.stringify(hoursJSON, null, 4), function(err) {
+        //   console.log('Scrape dir - ' + __dirname);
+        //   console.log('File successfully written! - Check your project directory for the output.json file');
+        // });
 
       });
     });
