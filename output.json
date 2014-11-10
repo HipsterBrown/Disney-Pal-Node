@@ -1,12 +1,12 @@
 {
-    "timeStamp": "Fri Nov 07 2014 17:34:10 GMT-0500 (EST)",
+    "timeStamp": "Sun Nov 09 2014 23:11:10 GMT-0500 (EST)",
     "wdw": {
         "hours": [
             {
                 "id": "0",
                 "title": "Magic Kingdom® Park",
                 "open": "9:00am",
-                "until": "7:00pm"
+                "until": "11:00pm"
             },
             {
                 "id": "1",
@@ -40,32 +40,30 @@
             {
                 "id": "6",
                 "title": "Disney's Blizzard Beach Water Park",
-                "open": "10:00am",
-                "until": "5:00pm"
+                "open": ""
             },
             {
                 "id": "7",
                 "title": "Downtown Disney® Marketplace",
                 "open": "10:00am",
-                "until": "11:30pm"
+                "until": "11:00pm"
             },
             {
                 "id": "8",
                 "title": "Downtown Disney® West Side",
                 "open": "10:30am",
-                "until": "12:00am"
+                "until": "11:00pm"
             },
             {
                 "id": "9",
                 "title": "Downtown Disney® Pleasure Island",
                 "open": "11:00am",
-                "until": "1:30am"
+                "until": "1:00am"
             },
             {
                 "id": "10",
                 "title": "ESPN Wide World of Sports Complex",
-                "open": "9:00am",
-                "until": "7:00pm"
+                "open": ""
             },
             {
                 "id": "11",
@@ -76,6 +74,19 @@
         ]
     },
     "dl": {
-        "hours": []
+        "hours": [
+            {
+                "id": "0",
+                "title": "Disneyland",
+                "open": "8:00 AM",
+                "until": "12:00 AM"
+            },
+            {
+                "id": "1",
+                "title": "Disney California Adventure",
+                "open": "8:00 AM",
+                "until": "10:00 PM"
+            }
+        ]
     }
 }
