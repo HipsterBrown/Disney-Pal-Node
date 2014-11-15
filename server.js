@@ -48,8 +48,6 @@ app.route({
 
     s3.getObject(params).createReadStream().pipe(timesJSON);
 
-    //reply.file(times.json);
-
     console.log('Replying with file stream.');
   }
 });

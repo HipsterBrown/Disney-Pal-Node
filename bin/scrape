@@ -83,18 +83,15 @@ request(worldUrl, function(error, response, html) {
           console.log('Scrape dir - ' + __dirname);
           console.log('File successfully written! - Check your project directory for the output.json file');
 
-          //s3bucket.createBucket(function(){
-            var data = {Key: 'times', Body: JSON.stringify(hoursJSON), ACL: 'public-read'};
+          var data = {Key: 'times', Body: JSON.stringify(hoursJSON), ACL: 'public-read'};
 
-            s3bucket.putObject(data, function(err, data){
-              if(err) {
-                console.log('Error putting object in bucket: ' + err);
-              } else {
-                console.log('Successfully stored times!', data);
-              }
-            });
-          //});
-
+          s3bucket.putObject(data, function(err, data){
+            if(err) {
+              console.log('Error putting object in bucket: ' + err);
+            } else {
+              console.log('Successfully stored times!');
+            }
+          });
         });
 
       });
