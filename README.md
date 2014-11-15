@@ -10,7 +10,9 @@ In its current form, a simple web scraper for fetching the hours of operation fo
 - hapi
 - cheerio
 - request
-- aws-sdk
+- aws-sdk- 
+
+
 ---
 
 TODO
